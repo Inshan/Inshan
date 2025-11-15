@@ -14,7 +14,7 @@ I am a Computer Engineer with an **extreme passion for Data Science, AI Programm
 Over the years, I explored many programming languages, but **Python has always been the one that excites me the most**.
 
 ### 📌 My Journey So Far
-- ⚡ Interned as both a **Frontend Developer** and **Backend Developer**
+- ⚡ Interned as both a **Frontend Developer** and a **Backend Developer**
 - 🤖 Worked for **2 years as an AI Developer** in an AI company
 - 🧠 **1.5 years** of industry experience as a **Machine Learning Engineer**
 - 🏗️ Built end-to-end AI apps, scrapers, dashboards, and ML pipelines
