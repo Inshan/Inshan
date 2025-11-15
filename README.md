@@ -16,7 +16,7 @@ Over the years, I explored many programming languages, but **Python has always b
 ### 📌 My Journey So Far
 - ⚡ Interned as both a **Frontend Developer** and **Backend Developer**
 - 🤖 Worked for **2 years as an AI Developer** in an AI company
-- 🧠 **1.5 years** of industry experience as a **Machine Learning Engineer at NepaWholesale LLC**
+- 🧠 **1.5 years** of industry experience as a **Machine Learning Engineer**
 - 🏗️ Built end-to-end AI apps, scrapers, dashboards, and ML pipelines
 
 I love building things that automate, optimize, and **solve real-world problems using AI**.
