@@ -1,4 +1,4 @@
-<h1 align="center">Ni hao! It's me, Inshan!👋</h1>
+<h1 align="center">Ni hao!👋 It's me, Inshan!</h1>
 
 <p align="center">
   <b>Computer Engineer • AI Developer • Machine Learning Engineer</b><br>
