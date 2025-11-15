@@ -1,7 +1,7 @@
 <h1 align="center">Ni hao! It's me, Inshan!👋</h1>
 
 <p align="center">
-  <b><h3><h3>Computer Engineer • AI Developer • Machine Learning Engineer</h3>h3></h3></b><br>
+  <b><h3>Computer Engineer • AI Developer • Machine Learning Engineer</h3></b><br>
   I love transforming data, code, and intelligence into real-world impactful solutions.
 </p>
 
