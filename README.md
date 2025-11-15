@@ -1,4 +1,4 @@
-<h1 align="center">Ni hao!👋 It's me, Inshan!</h1>
+<h1 align="center">你好!👋It's me, Inshan!</h1>
 
 <p align="center">
   <b>Computer Engineer • AI Developer • Machine Learning Engineer</b><br>
@@ -116,7 +116,7 @@ I love building things that automate, optimize, and **solve real-world problems 
 ---
 
 ## 🎯 What I Believe
-> *“I am a part of the vast matrix!...I will definitely get there, and this I know.”*
+> *“I am a part of the vast matrix!...I will definitely get there, and this I know.”*<br>
 > *“He who believes he is defeated, is defeated already. He who believes he can win, has already begun."*
 
 ---
