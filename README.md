@@ -1,10 +1,8 @@
-<h1 align="center">Ni hao! It's me, Inshan! 👋</h1>
+<h1 align="center">Ni hao! It's me, Inshan!👋</h1>
 
 <p align="center">
-  <b>Computer Engineer • AI Developer • Machine Learning Engineer</b><br>
-  <b>A part of the vast matrix!...I will definitely get there, and this I know.</b><br>
+  <b><h3><h3>Computer Engineer • AI Developer • Machine Learning Engineer</h3>h3></h3></b><br>
   I love transforming data, code, and intelligence into real-world impactful solutions.
-  
 </p>
 
 ---
@@ -98,7 +96,7 @@ I love building things that automate, optimize, and **solve real-world problems 
 
 ---
 
-## 🧩 Important Work in Brief
+## 🧩 Some of my pride!
 
 ### 🔹 **AI & ML Engineering**
 - Intelligent ETL pipelines (Bronze → Silver → Gold layers)
