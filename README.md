@@ -1,16 +1,119 @@
-## Hi there 👋
+<h1 align="center">Ni hao! It's me, Inshan! 👋</h1>
 
-<!--
-**Inshan/Inshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Computer Engineer • AI Developer • Machine Learning Engineer</b><br>
+  I love transforming data, code, and intelligence into real-world impactful solutions.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Computer Engineer with an **extreme passion for Data Science, AI Programming, and intelligent automation**.
+
+Over the years, I explored many programming languages, but **Python has always been the one that excites me the most**.
+
+### 📌 My Journey So Far
+- ⚡ Interned as both a **Frontend Developer** and **Backend Developer**
+- 🤖 Worked for **2 years as an AI Developer** in an AI company
+- 🧠 **1.5 years** of industry experience as a **Machine Learning Engineer at NepaWholesale LLC**
+- 🏗️ Built end-to-end AI apps, scrapers, dashboards, and ML pipelines
+
+I love building things that automate, optimize, and **solve real-world problems using AI**.
+
+---
+
+## 🧠 Tech Stack & Skills
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### **Web Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,django,fastapi" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### **AI • ML • DS**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+- Pandas  
+- Numpy  
+- Scikit-Learn  
+- Matplotlib & Seaborn  
+- Transfer Learning  
+- LLMs & RAG Pipelines  
+- Bits of PySpark  
+- Model Deployment  
+- Feature Engineering  
+- Data Preprocessing  
+
+### **Tools & Others**
+- Selenium  
+- Git & GitHub  
+- Streamlit  
+- VS Code  
+- Azure basics  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=inshan&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=inshan&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=inshan&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/inshan-bhattarai/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🧩 Featured Work
+
+### 🔹 **AI & ML Engineering**
+- Intelligent ETL pipelines (Bronze → Silver → Gold layers)
+- Customer analytics & segmentation
+- Demand prediction and recommendation models
+
+### 🔹 **Automation & Scraping**
+- Google Maps & Review scraping engines  
+- Selenium-based data collection systems  
+- Automatic data cleaning & pipeline integration (SQL Server & Azure)
+
+### 🔹 **AI Applications**
+- LLM-based tools  
+- RAG chat systems  
+- Streamlit dashboards for marketing & operations  
+
+---
+
+## 🎯 What I Believe
+> *“AI should not just be smart—it should be practical, scalable, and make life simpler.”*
+
+---
+
+⭐ **If you find my work useful, feel free to star my repositories!**
