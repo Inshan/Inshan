@@ -2,7 +2,9 @@
 
 <p align="center">
   <b>Computer Engineer • AI Developer • Machine Learning Engineer</b><br>
+  <b>A part of the vast matrix!...I will definitely get there, and this I know.</b><br>
   I love transforming data, code, and intelligence into real-world impactful solutions.
+  
 </p>
 
 ---
@@ -47,21 +49,25 @@ I love building things that automate, optimize, and **solve real-world problems 
 
 - Pandas  
 - Numpy  
-- Scikit-Learn  
+- Scikit-Learn
 - Matplotlib & Seaborn  
 - Transfer Learning  
 - LLMs & RAG Pipelines  
 - Bits of PySpark  
 - Model Deployment  
 - Feature Engineering  
-- Data Preprocessing  
+- Data Preprocessing
+- CI/CD Pipeline
+- Deep Learning (a bit higher than a beginner)
 
 ### **Tools & Others**
 - Selenium  
-- Git & GitHub  
+- Git & GitHub
+- FastAPI  
 - Streamlit  
 - VS Code  
-- Azure basics  
+- Azure basics
+- Docker
 
 ---
 
@@ -92,7 +98,7 @@ I love building things that automate, optimize, and **solve real-world problems 
 
 ---
 
-## 🧩 Featured Work
+## 🧩 Important Work in Brief
 
 ### 🔹 **AI & ML Engineering**
 - Intelligent ETL pipelines (Bronze → Silver → Gold layers)
@@ -112,7 +118,8 @@ I love building things that automate, optimize, and **solve real-world problems 
 ---
 
 ## 🎯 What I Believe
-> *“AI should not just be smart—it should be practical, scalable, and make life simpler.”*
+> *“I am a part of the vast matrix!...I will definitely get there, and this I know.”*
+> *“He who believes he is defeated, is defeated already. He who believes he can win, has already begun."*
 
 ---
 
