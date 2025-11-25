@@ -78,11 +78,27 @@ I love building things that automate, optimize, and **solve real-world problems 
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements & Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inshan&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
+### 🌐 AI & Automation
+- 🤖 Created AI agents for OCR, verification, accounting automation, and WhatsApp workflows.
+- 🧬 Built LLM-powered similarity engines for product matching across marketplaces.
+
+### 📊 Data Engineering
+- 🛢️ Designed Bronze → Silver → Gold pipelines for scalable analytics.
+- 🧹 Cleaned, processed, and transformed 100k+ records across diverse datasets.
+- 🚀 Automated ETL pipelines for ingesting, validating & storing real-time business data.
+
+### 💻 Software Development
+- 🧠 Developed ML pipelines, recommendation engines, and customer segmentation models.
+- ⚙️ Implemented API systems using FastAPI, Django, and microservices architecture.
+- 🐳 Containerized applications using Docker and deployed via CI/CD (GitHub Actions).
+
+### 🛰️ Automation & Integrations
+- 🌍 Engineered mapping & review scraping solutions (Selenium + SQL + Azure).
+- 🔗 Integrated Streamlit apps with marketing automation & email generation systems.
+- 🔄 Automated workflows with n8n, cloud functions, and Python task runners.
+
 
 ---
 
