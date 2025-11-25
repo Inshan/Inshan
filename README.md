@@ -108,7 +108,7 @@ I love building things that automate, optimize, and **solve real-world problems 
   <a href="https://www.linkedin.com/in/inshan-bhattarai/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.youtube.com/@inshanbhattarai5127/">
+  <a href="https://www.youtube.com/@inshanbhattarai5127">
     <img src="https://skillicons.dev/icons?i=youtube" />
   </a>
 </p>
