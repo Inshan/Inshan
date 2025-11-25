@@ -108,28 +108,11 @@ I love building things that automate, optimize, and **solve real-world problems 
   <a href="https://www.linkedin.com/in/inshan-bhattarai/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://www.youtube.com/@inshanbhattarai5127" />
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
 </p>
 
----
-
-## 🧩 Some of my pride!
-
-### 🔹 **AI & ML Engineering**
-- Intelligent ETL pipelines (Bronze → Silver → Gold layers)
-- Customer analytics & segmentation
-- Demand prediction and recommendation models
-
-### 🔹 **Automation & Scraping**
-- Google Maps & Review scraping engines  
-- Selenium-based data collection systems  
-- Automatic data cleaning & pipeline integration (SQL Server & Azure)
-
-### 🔹 **AI Applications**
-- LLM-based tools  
-- RAG chat systems  
-- Streamlit dashboards for marketing & operations  
-
----
 
 ## 🎯 What I Believe
 > *“I am a part of the vast matrix!...I will definitely get there, and this I know.”*<br>
